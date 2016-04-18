@@ -20,7 +20,7 @@ $(document).ready(function (e){
 			escribehistoria ('la app se desconecto de la red');
 		},false);//se desconecto
 		
-	},false;//ready device
+	},false);//ready device
 	
 });//document
 
